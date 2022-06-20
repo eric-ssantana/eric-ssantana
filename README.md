@@ -17,3 +17,22 @@
   <img align="center" alt="eric-ssantana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eric-ssantana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+### 🤝🏻 Conecte-se comigo: 
+
+<div align="left">
+   <a href="https://github.com/eric-ssantana">
+    <img 
+      alt="GitHub" 
+      title="ImEric"
+      src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
+    />
+   </a>
+   <a href="www.linkedin.com/in/eric-ssantana">
+   <img 
+      alt="GitHub" 
+      title="ImEric"
+      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+   </a>
+</div>
