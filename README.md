@@ -3,6 +3,8 @@
 
 
  <div>
+
+ <div>
   <a href="https://github.com/eric-ssantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-ssantana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-ssantana&layout=compact&langs_count=7&theme=merko"/>
@@ -20,15 +22,22 @@
    <a href="https://github.com/eric-ssantana">
     <img 
       alt="GitHub" 
-      title="ImEric"
-      src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
+      title="GitHub-Eric"
+      src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" align="center"
     />
    </a>
    <a href="https://www.linkedin.com/in/eric-ssantana">
    <img 
       alt="Linkedin" 
-      title="ImEric"
-      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+      title="Linkedin-Eric"
+      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"
+    />
+   </a>
+   <a href="https://www.linkedin.com/in/eric-ssantana">
+   <img 
+      alt="Instagram" 
+      title="Instagram-Eric"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png" height="35" align="center"
     />
    </a>
 </div>
