@@ -33,11 +33,12 @@
       src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"
     />
    </a>
-   <a href="https://www.linkedin.com/in/eric-ssantana">
+   <a href="https://www.instagram.com/eric_ssantana/" > 
    <img 
       alt="Instagram" 
       title="Instagram-Eric"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/800px-Instagram_logo.svg.png" height="35" align="center"
     />
    </a>
+   
 </div>
